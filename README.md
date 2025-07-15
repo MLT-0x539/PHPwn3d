@@ -1,2 +1,2 @@
-# PHPwn3d-shell_primary.php
+# PHPwn3d
 Multi-purpose lightweight PHP-based webshell focused on practicality and stealth.
